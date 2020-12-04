@@ -1,7 +1,7 @@
 team_name: University of Central Florida
 model_name: AI-Powered and Epidemiology-Informed Modeling System
 model_abbr: UCF-AEM
-model_contributors: Dongdong Wang (UCF) <daniel.wang@knights.ucf.edu>, Timothy Summer (UCF) <tsumner@knights.ucf.edu>, Shunpu Zhang (UCF) <Shunpu.Zhang@ucf.edu>, Liqiang Wang (UCF) <Liqiang.Wang@ucf.edu>
+model_contributors: Dongdong Wang (UCF) <daniel.wang@knights.ucf.edu>, Timothy Sumner (UCF) <tsumner@knights.ucf.edu>, Shunpu Zhang (UCF) <Shunpu.Zhang@ucf.edu>, Liqiang Wang (UCF) <Liqiang.Wang@ucf.edu>
 website_url: pending
 license: cc-by-4.0
 team_model_designation: primary
