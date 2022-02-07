@@ -63,4 +63,3 @@ forecast_date,target,target_end_date,location,type,quantile,value
 2/6/2022,6 wk ahead inc case,3/19/2022,US,point,NA,570066
 2/6/2022,7 wk ahead inc case,3/26/2022,US,point,NA,495344
 2/6/2022,8 wk ahead inc case,4/2/2022,US,point,NA,405824
-,,,,,,~
